@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1OkMLyxKb0U5nw8F6NbN3wR1Hvr9ryytfxS6nwFq65Q=",
+  "Source": "libretapp",
+  "BasePath": "_content/libretapp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
